@@ -1,0 +1,26 @@
+# Patient ID : BraTS-GLI-00002-000
+# Model      : Qwen/Qwen2.5-VL-3B-Instruct
+# Modalities : t1c, t1n, t2f, t2w
+# ==============================================================
+
+FINDINGS:
+- **T1c (Frames ~1–48):**
+  - A well-defined, heterogeneous mass is present in the left frontal lobe.
+  - The mass shows significant contrast enhancement, indicating possible malignancy.
+  - No clear mass effect or midline shift observed.
+  
+- **T1n (Frames ~49–96):**
+  - The mass appears to be isointense to the surrounding brain parenchyma on T1-weighted images.
+  - No significant contrast enhancement noted.
+  - No clear mass effect or midline shift observed.
+  
+- **T2-FLAIR (Frames ~97–144):**
+  - The mass exhibits hyperintensity on T2-FLAIR, consistent with edema or hemorrhage.
+  - No clear mass effect or midline shift observed.
+  
+- **T2w (Frames ~145–192):**
+  - The mass remains hyperintense on T2-weighted images, maintaining the same signal characteristics as on T2-FLAIR.
+  - No clear mass effect or midline shift observed.
+
+IMPRESSION:
+The imaging findings suggest a high-grade glioma in the left frontal lobe, characterized by a heterogeneously enhancing mass with associated T2/FLAIR hyperintensity. Further evaluation, including biopsy, is recommended to confirm the diagnosis and guide treatment planning.

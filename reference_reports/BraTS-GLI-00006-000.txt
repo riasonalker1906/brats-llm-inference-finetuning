@@ -1,0 +1,15 @@
+# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+########################################################################
+
+FINDINGS:
+The tumor presents with a medial shift at the foramen of Monro level. The left lateral ventricles are enlarged concerning entrapment, suggesting a submersion feature. There is no evidence of herniation. The frontal sulcal effacement and left frontal sulval effacement indicate submersion. No tonsillar or basal herniation is noted. Edema surrounding the edema area with a large volume is present.
+
+There is a NCR (necrotic compact tumor) mass measuring 3.4 x 3.2 x 3.5 cm, which may represent restricted diffusion. The T2 hyperintensity is central within the mass, possibly associated with necrosis. Foci of susceptibility are noted, which may indicate intratumoral bleeding. The surrounding edema volume is significant.
+
+In summary:
+- Fronto-par central shift to the right
+- Left lateral ventricles enlargement concerning entrapment
+- Submersion features
+- Edema surrounding edema with large volume
+- NCR mass of 3.4 x 3.2 x 3.5 cm
+- T2 hyperintensity central in the NCR mass

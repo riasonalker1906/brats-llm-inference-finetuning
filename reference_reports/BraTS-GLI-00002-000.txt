@@ -1,0 +1,13 @@
+# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+########################################################################
+
+FINDINGS:
+MAJ OR MINOR MAPPING AND MILESTONES: The tumor is identified as a glioma in the left hemisphere. The level of deep white matter invasion exceeds 3 mm.  
+GLOBAL FINDINGS: There is a mean midline shift of 3.27 mm, with a maximum shift of 10.0 mm at the base of the skull, consistent with a lateral ventricle enhancement at the anterior额前叶基部. The p95% of shifts are within 4.0–10.0 mm, indicating mild to moderate enhancement across the midline.  
+VENTRICLES: The left lateral ventricle is enlarged in all three ventricular components (NCR, ED, ET) with a VASARI ENLARGED_VENTRICLES of "Absent." The FASER PROPORTION of VASCULARIZATION is 0.31–67% and the FASER PROPORTION OF EDema is 34–67%, indicating significant edema but no complete tumor involvement.  
+EDEMA: Significant edema is present, with FASER PROPORTION OF Edema being 34–67%. Ependymal invasion is present in the left hemisphere, and deep white matter involvement is noted.  
+GROUP-FREQUENT MAPPINGS AND SEQUENCES: The tumor is associated with a mild enhancing feature on the anterior额前叶基部.  
+
+---
+
+This report is based solely on the provided metadata, focusing on the global and ventricular findings, while avoiding any hallucinations or unsupported information.

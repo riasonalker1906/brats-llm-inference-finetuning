@@ -1,0 +1,31 @@
+# Patient ID : BraTS-GLI-00000-000
+# Model      : Qwen/Qwen2.5-VL-3B-Instruct
+# Modalities : t1c, t1n, t2f, t2w
+# ==============================================================
+
+FINDINGS:
+- **T1c (Frames ~1–48):**
+  - A well-defined, heterogeneous mass is present in the left frontal lobe.
+  - The mass shows intense ring enhancement around its periphery, indicating possible malignancy.
+  - No significant central necrosis or cystic components are observed within the mass.
+  - The surrounding white matter shows mild hyperintensity on T2/FLAIR (T2-FLAIR) sequences, suggesting mild edema.
+
+- **T1n (Frames ~49–96):**
+  - The mass remains visible but shows less contrast enhancement compared to the T1c sequence.
+  - The mass's internal architecture is more clearly defined, with some areas appearing more hypointense than others.
+  - No significant central necrosis or cystic components are observed within the mass.
+  - The surrounding white matter shows mild hyperintensity on T2/FLAIR (T2-FLAIR) sequences, consistent with mild edema.
+
+- **T2-FLAIR (Frames ~97–144):**
+  - The mass continues to show mild hyperintensity on T2/FLAIR sequences, consistent with edema.
+  - No significant central necrosis or cystic components are observed within the mass.
+  - The surrounding white matter shows further increased hyperintensity, indicating more pronounced edema.
+
+- **T2w (Frames ~145–192):**
+  - The mass remains visible but shows less contrast enhancement compared to the T1c sequence.
+  - The mass's internal architecture is more clearly defined, with some areas appearing more hypointense than others.
+  - No significant central necrosis or cystic components are observed within the mass.
+  - The surrounding white matter shows further increased hyperintensity, consistent with more pronounced edema.
+
+IMPRESSION:
+The imaging findings suggest a high-grade glioma, possibly a glioblastoma, based on the heterogeneous mass with ring enhancement and surrounding edema. Further evaluation, including biopsy, is recommended to confirm the diagnosis and guide treatment planning.

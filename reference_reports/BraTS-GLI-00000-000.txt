@@ -1,0 +1,13 @@
+# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+########################################################################
+
+FINDINGS:
+The report describes a glioma located in the left hemisphere of the anterior fronto-temporal lobe. 
+
+- **Mass Effect & VENTRICLES**: There is at least 8 mm shift at the level of the foramen of Monro, indicating a leftward mass effect. The left lateral ventricle shows significant edema around the tumor, with the extent of edema exceeding 3 mm (>3mm) and accounting for over 67% of the edema volume.
+  
+- **BRONZEUM/LEMMARIA**: The tumor is solitary within the left frontal lobe. No restrictions on diffusion or restricted diffusion are observed. There is no evidence of any restricted edema associated with the tumor.
+
+- **EDMA (HYPERRESECTION)**: There is effacement of the left lateral ventricle's frontal horn and its frontal sulcus, suggesting a hyperresection of the tumor into white matter.
+
+- **TUMOR PROPORTIONS**: The tumor occupies approximately 62% of the anterior frontal lobe volume.

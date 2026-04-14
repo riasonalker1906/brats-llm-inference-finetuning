@@ -1,0 +1,27 @@
+# Patient ID : BraTS-GLI-00003-000
+# Model      : Qwen/Qwen2.5-VL-3B-Instruct + QLoRA
+# ==============================================================
+
+FINDINGS:
+- **T1c (Frames ~1–48):**
+  - A well-defined, heterogeneous mass is present in the left frontal lobe.
+  - The mass shows intense ring enhancement around its periphery, indicating possible malignancy.
+  - No significant central necrosis or cystic components are observed within the mass.
+  - The surrounding white matter shows mild hyperintensity on T2/FLAIR (T2-FLAIR) sequences, suggesting mild edema.
+
+- **T1n (Frames ~49–96):**
+  - The mass remains visible but shows less contrast enhancement compared to the T1c sequence.
+  - The mass's internal architecture is more heterogeneous, with some areas appearing more hypointense.
+  - No significant central necrosis or cystic components are observed within the mass.
+
+- **T2-FLAIR (Frames ~97–144):**
+  - The mass exhibits marked hyperintensity on T2-FLAIR sequences, consistent with high-grade glioma.
+  - The surrounding white matter shows significant hyperintensity, indicative of extensive edema.
+  - No clear mass effect or midline shift is observed.
+
+- **T2w (Frames ~145–192):**
+  - The mass remains hyperintense on T2-weighted sequences, maintaining the same pattern as T2-FLAIR.
+  - No significant central necrosis or cystic components are observed within the mass.
+
+IMPRESSION:
+The imaging findings suggest a high-grade glioma involving the left frontal lobe. The mass shows intense ring enhancement on T1c, which is characteristic of glioblastoma multiforme (GBM). The surrounding edema on T2-FLAIR and T2w sequences further supports the diagnosis. Given the aggressive nature of the lesion, immediate consultation with a neuro-oncologist is recommended for further management options, including surgical resection and potential radiation therapy.

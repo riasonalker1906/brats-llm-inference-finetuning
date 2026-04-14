@@ -1,0 +1,7 @@
+# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+########################################################################
+
+FINDINGS:
+TUMOR VOLUNTARIES: Global tumor volumes include ed_volume = 57,773 cm³ (95% ed_volume_volume). CISTERNS are patent (cisterns are present). Tumor location is in the left hemisphere, specifically within the frontal lobe.
+
+TEMA BRAIN STRUCTURES: The tumor features a rim-enhancing mass with dimensions 3.4 × 3.2 × 3.5 cm³. There is edema surrounding this mass (ed_vasari_edema = ed_volume). Tumor vasularity includes T2 hyperintensity within the mass, possibly representing necrosis or blood flow issues (t2_hemorrhage = T2 hyperintensity). Additionally, foci of susceptibility are present, which may indicate intratumoral bleeding.

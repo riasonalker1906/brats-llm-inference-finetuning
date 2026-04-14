@@ -1,0 +1,42 @@
+# Core ML stack — install PyTorch for Apple Silicon via pip (not conda)
+# before running: pip install -r requirements.txt
+torch>=2.3.0          # MPS backend stable from 2.0; bfloat16 on MPS from 2.1
+torchvision>=0.18.0
+
+# Hugging Face ecosystem
+transformers>=4.47.0  # Qwen2.5-VL class (Qwen2_5_VLForConditionalGeneration) added in 4.47
+accelerate>=0.30.0    # device_map="auto" support
+
+# Qwen2.5-VL vision utilities (video frame pre-processing, vision token packing)
+qwen-vl-utils>=0.0.8
+
+# Medical imaging
+nibabel>=5.2.0        # read NIfTI (.nii / .nii.gz) volumes
+
+# Image processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Kaggle CLI (used in download_data.py)
+kaggle>=1.6.0
+
+# ── Evaluation (match_reports.py + evaluate.py) ───────────────────────────
+
+# HTTP fetch (match_reports.py)
+requests>=2.31.0
+
+# Anthropic API — synthetic reference fallback in match_reports.py
+# Set ANTHROPIC_API_KEY in environment before running match_reports.py
+anthropic>=0.40.0
+
+# NLP metrics (evaluate.py)
+rouge-score>=0.1.2        # ROUGE-L
+nltk>=3.8.1               # METEOR, BLEU-4  (also needs: wordnet, punkt_tab)
+bert-score>=0.3.13        # BERTScore-F1 (DeBERTa-XL) + RaTEScore/GREEN approx
+# RadGraph-F1 is NOT on PyPI — it requires gated PhysioNet access.
+# To enable it: request access at https://physionet.org/content/radgraph/
+# then: pip install radgraph
+# evaluate.py will return NaN for RadGraph-F1 until this is installed.
+
+# Data handling / reporting
+pandas>=2.0.0

@@ -1,0 +1,5 @@
+# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+########################################################################
+
+FINDINGS:
+MASS EFFECT & VENTRICLES: There is at least a 1-8 mm left-to-right midline shift within the ncr, with some edema associated with it. The right lateral ventricle shows increased edema concerning entrapment. No restricted diffusion is observed. The tumor presents as a rim mass in the left frontal lobe that measures 3.4 x 3.2 x 3.5 cm, likely indicative of vascularity and potential necrosis or bleeding areas. There are foci of T2 hyperintensity centrally within this mass, possibly representing Necrosis, and several foci of susceptibility which may suggest intratumoral bleeding. Surrounding edema regions show low vascularity.

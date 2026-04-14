@@ -1,15 +1,13 @@
-# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+# REFERENCE REPORT
+# Patient ID : BraTS-GLI-00006-000
+# Source     : BTReport / gpt-oss:120b (VASARI-metadata-grounded)
+# Key        : Predicted Report (gpt-oss:120b)
 ########################################################################
 
-FINDINGS:
-The tumor presents with a medial shift at the foramen of Monro level. The left lateral ventricles are enlarged concerning entrapment, suggesting a submersion feature. There is no evidence of herniation. The frontal sulcal effacement and left frontal sulval effacement indicate submersion. No tonsillar or basal herniation is noted. Edema surrounding the edema area with a large volume is present.
+**FINDINGS:**  
 
-There is a NCR (necrotic compact tumor) mass measuring 3.4 x 3.2 x 3.5 cm, which may represent restricted diffusion. The T2 hyperintensity is central within the mass, possibly associated with necrosis. Foci of susceptibility are noted, which may indicate intratumoral bleeding. The surrounding edema volume is significant.
+**MASS EFFECT & VENTRICLES:**  
+There is an approximately 8 mm left-to-right midline shift at the level of the septum pellucidum. The basal cisterns are patent and no tonsillar herniation is seen. Both lateral ventricles are partially encroached by the lesion with ependymal invasion, but there is no significant ventricular effacement or asymmetry.  
 
-In summary:
-- Fronto-par central shift to the right
-- Left lateral ventricles enlargement concerning entrapment
-- Submersion features
-- Edema surrounding edema with large volume
-- NCR mass of 3.4 x 3.2 x 3.5 cm
-- T2 hyperintensity central in the NCR mass
+**BRAIN/ENHANCEMENT:**  
+In the left frontal-lobe cortex there is a solitary, infiltrating mass measuring 4.3 x 4.3 x 6.0 cm. The lesion demonstrates marked heterogeneous enhancement with a thick (>3 mm) enhancing margin; roughly 19 % of the volume enhances, while an adjacent 18 % non-enhancing component is compatible with necrosis. The tumor involves the overlying cortex, deep white matter, left caudate, putamen, and accumbens area, and crosses the midline to involve the right frontal lobe and right lateral ventricle. Ependymal invasion is present. There is extensive surrounding FLAIR abnormality representing vasogenic edema, which also crosses the midline and comprises the majority of the abnormal tissue. No additional satellite lesions are identified.

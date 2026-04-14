@@ -1,0 +1,43 @@
+{
+  "pathology": "glioma",
+  "global": {
+    "ncr_volume": 11738.0,
+    "ed_volume": 12836.0,
+    "et_volume": 32731.0,
+    "total_tumor_volume": 57305.0,
+    "median_midline_shift_mm": 1.0,
+    "mean_midline_shift_mm": 0.6903225806,
+    "max_midline_shift_mm": -4.0,
+    "p95_midline_shift_mm": 4.0,
+    "crosses_midline": {
+      "ncr": false,
+      "ed": true,
+      "et": false,
+      "ncr_et": false
+    },
+    "vasari_asymmetrical_ventricles": "Absent",
+    "vasari_enlarged_ventricles": "Absent",
+    "vasari_f1_tumour_location": "Frontal",
+    "vasari_f11_thickness_of_enhancing_margin": ">3mm",
+    "vasari_f14_proportion_of_oedema": "6-33%",
+    "vasari_f19_ependymal_invasion": "Absent",
+    "vasari_f2_side_of_tumour_epicenter": "Left",
+    "vasari_f20_cortical_involvement": "Present",
+    "vasari_f21_deep_wm_invasion": "Present",
+    "vasari_f23_cet_crosses_midline": "False",
+    "vasari_f24_satellites": "Absent",
+    "vasari_f3_eloquent_brain": "No involvement",
+    "vasari_f4_enhancement_quality": "Marked",
+    "vasari_f5_proportion_enhancing": "34-67%",
+    "vasari_f7_proportion_necrosis": "6-33%",
+    "vasari_f9_multifocal_or_multicentric": "Solitary",
+    "vasari_region_proportions": [
+      [
+        "Frontal Lobe",
+        0.6204029521
+      ]
+    ],
+    "vasari_text_report": "Frontal lobe tumor, in the left hemisphere, mostly enhancing, solitary, no ependymal invasion, deep white matter invasion present, enhancing region does not cross midline, no tumor-associated ventricular asymmetry, ventricles not enlarged.",
+    "level_max_shift": "septum pellucidum"
+  }
+}

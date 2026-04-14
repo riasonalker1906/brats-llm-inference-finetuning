@@ -1,5 +1,11 @@
-# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+# REFERENCE REPORT
+# Patient ID : BraTS-GLI-00005-000
+# Source     : BTReport / gpt-oss:120b (VASARI-metadata-grounded)
+# Key        : Predicted Report (gpt-oss:120b)
 ########################################################################
 
-FINDINGS:
-MASS EFFECT & VENTRICLES: There is at least a 1-8 mm left-to-right midline shift within the ncr, with some edema associated with it. The right lateral ventricle shows increased edema concerning entrapment. No restricted diffusion is observed. The tumor presents as a rim mass in the left frontal lobe that measures 3.4 x 3.2 x 3.5 cm, likely indicative of vascularity and potential necrosis or bleeding areas. There are foci of T2 hyperintensity centrally within this mass, possibly representing Necrosis, and several foci of susceptibility which may suggest intratumoral bleeding. Surrounding edema regions show low vascularity.
+**FINDINGS:**  
+
+**MASS EFFECT & VENTRICLES:** There is an approximately 8 mm left-to-right midline shift at the level of the septum pellucidum. The left lateral ventricle is effaced, producing marked asymmetry of the ventricular system. The right lateral ventricle is patent but appears displaced. No tonsillar herniation is seen.  
+
+**BRAIN/ENHANCEMENT:** A solitary, left-sided lesion involving the parietal and frontal cortical gray matter with extension into deep white matter, the left thalamus and left caudate. The mass measures 5.3 x 4.1 x 5.2 cm (AP x TV x CC). It demonstrates marked heterogeneous enhancement on post-contrast T1-weighted images with a thick (>3 mm) enhancing margin. A central component of T2-hyperintensity is compatible with necrosis (20 % of the volume). A large surrounding region of T2-FLAIR hyperintensity consistent with vasogenic oedema comprises the majority of the lesion volume (62 %) and crosses the midline. There is ependymal (ventricular) invasion of the left lateral ventricle; the enhancing portion does not cross the midline. No additional satellite lesions are identified.

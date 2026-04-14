@@ -1,13 +1,13 @@
-# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+# REFERENCE REPORT
+# Patient ID : BraTS-GLI-00000-000
+# Source     : BTReport / gpt-oss:120b (VASARI-metadata-grounded)
+# Key        : Predicted Report (gpt-oss:120b)
 ########################################################################
 
-FINDINGS:
-The report describes a glioma located in the left hemisphere of the anterior fronto-temporal lobe. 
+**FINDINGS**
 
-- **Mass Effect & VENTRICLES**: There is at least 8 mm shift at the level of the foramen of Monro, indicating a leftward mass effect. The left lateral ventricle shows significant edema around the tumor, with the extent of edema exceeding 3 mm (>3mm) and accounting for over 67% of the edema volume.
-  
-- **BRONZEUM/LEMMARIA**: The tumor is solitary within the left frontal lobe. No restrictions on diffusion or restricted diffusion are observed. There is no evidence of any restricted edema associated with the tumor.
+**MASS EFFECT & VENTRICLES:**  
+There is a minimal left-to-right midline shift of approximately 4 mm at the level of the septum pellucidum. No significant ventricular asymmetry is identified; the lateral ventricles are of normal size and configuration with no focal effacement of the anterior or posterior horns. The mass produces only mild mass effect on adjacent brain parenchyma.
 
-- **EDMA (HYPERRESECTION)**: There is effacement of the left lateral ventricle's frontal horn and its frontal sulcus, suggesting a hyperresection of the tumor into white matter.
-
-- **TUMOR PROPORTIONS**: The tumor occupies approximately 62% of the anterior frontal lobe volume.
+**BRAIN / ENHANCEMENT:**  
+A solitary, predominantly enhancing lesion is centered in the left frontal lobe, measuring roughly 4.3 x 4.3 x 6.6 cm (AP x TV x CC). The lesion involves the cortical gray matter, deep white matter, and extends to the left lateral ventricle with ependymal invasion. Involvement also includes the left caudate, putamen, pallidum, and accumbens area. The enhancing component is marked, with a thick (>3 mm) enhancing margin comprising about 57 % of the lesion volume. Central non-enhancing necrotic areas account for approximately 20 % of the lesion. Surrounding vasogenic edema, representing roughly 22 % of the total abnormality, extends across the midline into the contralateral frontal region. No enhancing satellite lesions are present, and the enhancing portion does not cross the midline.

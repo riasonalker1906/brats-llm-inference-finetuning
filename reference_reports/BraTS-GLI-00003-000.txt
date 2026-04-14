@@ -1,7 +1,22 @@
-# Source: BTReport / DeepSeek R1 1.5B (metadata-based)
+# REFERENCE REPORT
+# Patient ID : BraTS-GLI-00003-000
+# Source     : BTReport / gpt-oss:120b (VASARI-metadata-grounded)
+# Key        : Predicted Report (gpt-oss:120b)
 ########################################################################
 
-FINDINGS:
-TUMOR VOLUNTARIES: Global tumor volumes include ed_volume = 57,773 cm³ (95% ed_volume_volume). CISTERNS are patent (cisterns are present). Tumor location is in the left hemisphere, specifically within the frontal lobe.
+**FINDINGS**
 
-TEMA BRAIN STRUCTURES: The tumor features a rim-enhancing mass with dimensions 3.4 × 3.2 × 3.5 cm³. There is edema surrounding this mass (ed_vasari_edema = ed_volume). Tumor vasularity includes T2 hyperintensity within the mass, possibly representing necrosis or blood flow issues (t2_hemorrhage = T2 hyperintensity). Additionally, foci of susceptibility are present, which may indicate intratumoral bleeding.
+**MASS EFFECT & VENTRICLES:**  
+- There is an approximate 7 mm right-ward midline shift at the level of the falx cerebri (above), consistent with the left-sided tumor burden.  
+- The surrounding vasogenic edema extends across the midline, involving both frontal lobes.  
+- No asymmetry of the lateral ventricles is identified and there is no frank effacement of the ventricular horns.  
+- The lesion demonstrates ependymal (ventricular) invasion with involvement of the left lateral ventricle and, to a lesser extent, the right lateral ventricle.  
+
+**BRAIN / ENHANCEMENT:**  
+- A solitary, left frontal-lobe mass centered in the cortex extends into the deep white matter and crosses the midline.  
+- The lesion measures approximately 4.9 x 3.9 x 5.0 cm (anteroposterior x transverse x craniocaudal).  
+- Post-contrast T1-weighted images demonstrate marked, thick (>3 mm) enhancing margins comprising roughly 25 % of the lesion volume.  
+- Central non-enhancing components compatible with necrosis constitute about 17 % of the mass.  
+- The surrounding T2-FLAIR hyperintensity, representing vasogenic edema, accounts for roughly 58 % of the overall abnormality and crosses the midline.  
+- Cortical involvement and deep white-matter infiltration are evident.  
+- No additional satellite lesions are identified.

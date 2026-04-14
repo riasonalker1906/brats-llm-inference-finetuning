@@ -1,0 +1,6 @@
+patient_id,location_correct,location_correct_gt,hemisphere_correct,hemisphere_correct_gt,ependymal_correct,ependymal_correct_gt,wm_invasion_correct,wm_invasion_correct_gt,enhancement_correct,enhancement_correct_gt,midline_shift_correct,midline_shift_correct_gt,necrosis_correct,necrosis_correct_gt,crosses_midline_correct,crosses_midline_correct_gt,multifocal_correct,multifocal_correct_gt
+BraTS-GLI-00005-000,0,Parietal,1,Left,1,Absent,1,Absent,0,Mild,0,8mm (sig=True),0,NCR=24187mm³,1,False,1,Solitary
+BraTS-GLI-00003-000,1,Frontal,1,Left,0,Present,0,Present,0,Mild,1,7mm (sig=True),0,NCR=17214mm³,0,True,1,Solitary
+BraTS-GLI-00002-000,0,Insula,1,Left,0,Present,0,Present,0,Mild,1,10mm (sig=True),0,NCR=11248mm³,0,True,1,Solitary
+BraTS-GLI-00006-000,1,Frontal,1,Left,1,Absent,1,Present,0,Mild,0,8mm (sig=True),1,NCR=25506mm³,0,True,1,Solitary
+BraTS-GLI-00000-000,1,Frontal,1,Left,1,Absent,1,Present,0,Marked,0,4mm (sig=True),1,NCR=11738mm³,1,False,1,Solitary

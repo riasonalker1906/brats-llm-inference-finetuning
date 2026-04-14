@@ -1,0 +1,43 @@
+{
+  "pathology": "glioma",
+  "global": {
+    "ncr_volume": 16.0,
+    "ed_volume": 18135.0,
+    "et_volume": 311.0,
+    "total_tumor_volume": 18462.0,
+    "median_midline_shift_mm": 0.0,
+    "mean_midline_shift_mm": 0.1161290323,
+    "max_midline_shift_mm": 3.0,
+    "p95_midline_shift_mm": 2.0,
+    "crosses_midline": {
+      "ncr": false,
+      "ed": false,
+      "et": false,
+      "ncr_et": false
+    },
+    "vasari_asymmetrical_ventricles": "Absent",
+    "vasari_enlarged_ventricles": "Absent",
+    "vasari_f1_tumour_location": "Temporal",
+    "vasari_f11_thickness_of_enhancing_margin": ">3mm",
+    "vasari_f14_proportion_of_oedema": "34-67%",
+    "vasari_f19_ependymal_invasion": "Absent",
+    "vasari_f2_side_of_tumour_epicenter": "Right",
+    "vasari_f20_cortical_involvement": "Absent",
+    "vasari_f21_deep_wm_invasion": "Absent",
+    "vasari_f23_cet_crosses_midline": "False",
+    "vasari_f24_satellites": "Absent",
+    "vasari_f3_eloquent_brain": "No involvement",
+    "vasari_f4_enhancement_quality": "Mild",
+    "vasari_f5_proportion_enhancing": "<5%",
+    "vasari_f7_proportion_necrosis": "<5%",
+    "vasari_f9_multifocal_or_multicentric": "Solitary",
+    "vasari_region_proportions": [
+      [
+        "Temporal Lobe",
+        0.9972677596
+      ]
+    ],
+    "vasari_text_report": "Temporal lobe tumor, in the right hemisphere, mildly enhancing, solitary, no ependymal invasion, no deep white matter invasion, enhancing region does not cross midline, no tumor-associated ventricular asymmetry, ventricles not enlarged.",
+    "level_max_shift": "fourth ventricle"
+  }
+}

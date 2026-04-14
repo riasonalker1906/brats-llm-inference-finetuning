@@ -1,0 +1,47 @@
+{
+  "pathology": "glioma",
+  "global": {
+    "ncr_volume": 11248.0,
+    "ed_volume": 155695.0,
+    "et_volume": 23651.0,
+    "total_tumor_volume": 190594.0,
+    "median_midline_shift_mm": 2.0,
+    "mean_midline_shift_mm": 3.2709677419,
+    "max_midline_shift_mm": 10.0,
+    "p95_midline_shift_mm": 10.0,
+    "crosses_midline": {
+      "ncr": false,
+      "ed": true,
+      "et": true,
+      "ncr_et": true
+    },
+    "vasari_asymmetrical_ventricles": "Present",
+    "vasari_enlarged_ventricles": "Absent",
+    "vasari_f1_tumour_location": "Insula",
+    "vasari_f11_thickness_of_enhancing_margin": ">3mm",
+    "vasari_f14_proportion_of_oedema": "34-67%",
+    "vasari_f19_ependymal_invasion": "Present",
+    "vasari_f2_side_of_tumour_epicenter": "Left",
+    "vasari_f20_cortical_involvement": "Present",
+    "vasari_f21_deep_wm_invasion": "Present",
+    "vasari_f23_cet_crosses_midline": "True",
+    "vasari_f24_satellites": "Absent",
+    "vasari_f3_eloquent_brain": "No involvement",
+    "vasari_f4_enhancement_quality": "Mild",
+    "vasari_f5_proportion_enhancing": "6-33%",
+    "vasari_f7_proportion_necrosis": "6-33%",
+    "vasari_f9_multifocal_or_multicentric": "Solitary",
+    "vasari_region_proportions": [
+      [
+        "Insula",
+        0.2147653318
+      ],
+      [
+        "Frontal Lobe",
+        0.185840708
+      ]
+    ],
+    "vasari_text_report": "Insular tumor, in the left hemisphere, mildly enhancing, solitary, ependymal invasion present, deep white matter invasion present, enhancing region crosses midline, tumor-side ventricular asymmetry, ventricles not enlarged.",
+    "level_max_shift": "septum pellucidum"
+  }
+}

@@ -1,0 +1,11 @@
+error,description,affected_patients,rate
+OMIT_MASS_EFFECT,Mass effect / midline shift in reference but missing from model,2,0.4
+OMIT_QUANTIFICATION,Reference gives numeric measurements (mm/cm/%); model gives none,5,1.0
+OMIT_NECROSIS,Necrosis in reference; model never mentions it,2,0.4
+OMIT_HEMORRHAGE,Hemorrhage / susceptibility in reference; absent from model,1,0.2
+OMIT_VENTRICLE_EFFECT,Ventricle compression / entrapment in reference; absent from model,3,0.6
+OMIT_INVASION,Ependymal or white-matter invasion in reference; absent from model,1,0.2
+HALLUCINATED_NEGATIVE,Model asserts 'no mass effect / no necrosis' that reference contradicts,2,0.4
+TEMPLATE_COLLAPSE,Report is ≥70% text-similar to another patient's report (same model),3,0.6
+SPECIFICITY_LOSS,Model uses identical location ('left frontal lobe') for every patient,5,1.0
+GENERIC_IMPRESSION,IMPRESSION section is ≥85% identical to another patient's impression,4,0.8
